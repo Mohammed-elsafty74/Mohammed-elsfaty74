@@ -61,11 +61,15 @@
 
 ### 🤖 AI & RAG
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+### 🤖 Generative AI & RAG
+
+<p align='left'> 
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge"/>
 </p>
+
 
 **Skills & Technologies:**  
 `NLP` · `LLMs` · `RAG` · `LangChain` · `Generative AI`
