@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hiو I'm Mohammed  El-Safty
+  Hi, I'm Mohammed El-Safty
 </h1>
 
 <h3 align="center">
@@ -64,10 +64,11 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
 </p>
 
 **Skills & Technologies:**  
-`NLP` · `Computer Vision` · `LLMs` · `RAG` · `LangChain` · `Hugging Face` · `Generative AI`
+`NLP` · `LLMs` · `RAG` · `LangChain` · `Generative AI`
 
 ---
 
