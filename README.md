@@ -26,7 +26,7 @@
 
 🤖 Aspiring **AI Engineer & Data Scientist** with a strong foundation in Python, Machine Learning, Deep Learning, Data Science, and Artificial Intelligence.
 
-💡 Passionate about building intelligent systems, solving real-world problems, and continuously expanding my technical expertise.
+🔍 Actively seeking an AI/ML or Data Science internship to gain real-world experience, contribute to meaningful projects, and grow as an AI Engineer & Data Scientist.
 
 📍 Cairo, Egypt
 
