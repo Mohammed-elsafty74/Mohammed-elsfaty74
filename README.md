@@ -19,28 +19,39 @@
   </a>
 </p>
 
+## 👨‍💻 About Me
+
+🎓 Computer Science student specializing in **Artificial Intelligence** at  
+**Banha University – Faculty of Computers & Artificial Intelligence**
+
+🤖 Aspiring **AI Engineer & Data Scientist** with a strong foundation in Python, Machine Learning, Deep Learning, Data Science, and Artificial Intelligence.
+
+💡 Passionate about building intelligent systems, solving real-world problems, and continuously expanding my technical expertise.
+
+📍 Cairo, Egypt
+
 ---
 ## 🛠️ Tech Stack
 
-###  Programming Languages
+### 🐍 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" width="50"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
-  <img src="https://skillicons.dev/icons?i=java" width="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
 ---
 
 ### 📊 Data Science & Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas" width="50"/>
-  <img src="https://skillicons.dev/icons?i=numpy" width="50"/>
-  <img src="https://skillicons.dev/icons?i=scikitlearn" width="50"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
 </p>
 
 **Skills:**  
@@ -50,9 +61,9 @@
 
 ### 🤖 AI & RAG
 
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv" width="50"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="45"/>
 </p>
 
 **Skills & Technologies:**  
@@ -62,11 +73,11 @@
 
 ### 🔧 Tools & IDEs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="50"/>
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-  <img src="https://skillicons.dev/icons?i=jupyter" width="50"/>
-  <img src="https://skillicons.dev/icons?i=pycharm" width="50"/>
-  <img src="https://skillicons.dev/icons?i=googlecolab" width="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45"/>
 </p>
+
